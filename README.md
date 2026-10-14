@@ -6,6 +6,8 @@ Public documentation, specifications, and test reports for RoboParty / ROMOMO jo
 
 [中文说明](README.zh-CN.md) · [Browse the files](https://github.com/Roboparty/ROMOMO/tree/master)
 
+![ROMOMO joint module exploded view](motor-exploded-cropped.gif)
+
 ## At A Glance
 
 | Module | Rated voltage | Reduction ratio | Rated speed | Peak speed | Rated torque | Peak torque | Evidence |

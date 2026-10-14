@@ -6,6 +6,8 @@ RoboParty / ROMOMO 关节模组的公开文档、规格资料和测试报告。
 
 [English README](README.md) · [浏览仓库文件](https://github.com/Roboparty/ROMOMO/tree/master)
 
+![ROMOMO 关节模组爆炸图](motor-exploded-cropped.gif)
+
 ## 关键参数
 
 | 模组 | 额定电压 | 减速比 | 额定转速 | 峰值转速 | 额定转矩 | 峰值转矩 | 资料状态 |
